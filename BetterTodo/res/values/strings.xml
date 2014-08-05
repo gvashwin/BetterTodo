@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BetterTodo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addButtonLabel">Add</string>
+    <string name="addTaskHint">Type your task here</string>
+    <string name="p_high">High</string>
+    <string name="p_medium">Medium</string>
+    <string name="p_low">Low</string>
+    <string name="saveButtonLabel">Save</string>
+    <string name="editItemPrompt">Edit your task :</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="title_activity_edit_item_activty">EditItemActivty</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RadioGroup
+        android:id="@+id/rgPriority"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" >
+
+        <RadioButton
+            android:id="@+id/rbEditHigh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:checked="true"
+            android:text="@string/p_high" />
+
+        <RadioButton
+            android:id="@+id/rbEditMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/rbEditHigh"
+            android:text="@string/p_medium" />
+
+        <RadioButton
+            android:id="@+id/rbEditLow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/rbEditMedium"
+            android:layout_below="@+id/rbEditMedium"
+            android:text="@string/p_low" />
+
+    </RadioGroup>
+
+     <Button
+         android:id="@+id/saveButton"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/rgPriority"
+         android:layout_centerHorizontal="true"
+         android:text="@string/saveButtonLabel" />
+
+</RelativeLayout>

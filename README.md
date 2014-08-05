@@ -52,16 +52,13 @@ Completed User Stories :
 
 **Changing task item name**
 
-![Video Walkthrough](EdittingItemTextAlone.gif)
+![Video Walkthrough](EditingItemTextAlone.gif)
 
 **Changing task item priority**
 
-![Video Walkthrough](ChangingItemPriority.gif)
+![Video Walkthrough](ChangingItemPriorityAlone.gif)
 
 **Changing task item priority and text**
 
 ![Video Walkthrough](TextAndPriorityChange.gif)
 
-**Changing task item priority and text**
-
-![Video Walkthrough](TextAndPriorityChange.gif)

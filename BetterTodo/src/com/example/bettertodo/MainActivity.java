@@ -76,7 +76,7 @@ public class MainActivity extends Activity implements TaskPriorityListener {
 		taskListView.setAdapter(tAdapter);
 		
 		// Sorting the items in the todo list or task list
-		// baes on the prioirty. High , Medium and Low
+		// based on the priority. High , Medium and Low
 		Collections.sort(taskList);
 		tAdapter.notifyDataSetChanged();
 		setupOnLongClickListener();

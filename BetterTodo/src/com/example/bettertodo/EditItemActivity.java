@@ -1,3 +1,7 @@
+/*
+ * Class to handle Edit item activity
+ */
+
 package com.example.bettertodo;
 
 import com.example.bettertodo.PriorityDialogFragment.TaskPriorityListener;
@@ -43,20 +47,6 @@ public class EditItemActivity extends Activity {
 		Log.v(TAG, 
 				"item prioirty to update is :"+itemPrioirtyToEdit);
 		
-		/*
-		Log.v(TAG, "Getting item position from intent");
-		itemIndexPosition = getIntent().getIntExtra("itemIndex", -1);
-		Log.v(TAG, 
-				"Item position is :"+itemIndexPosition);
-		
-		if(itemIndexPosition == -1) {
-			Log.e(TAG, 
-					"The index position got from the intent can only be 0 " +
-					"or some positive value, it cannot be negative");
-			throw new IllegalArgumentException("ERROR!!!!! The item Index is -1");
-			
-		}*/
-		
 		// Setting task name to edit, in edit activity
 		editItem.setText(itemTextToEdit);
 		editItem.setSelection(itemTextToEdit.length());
@@ -76,6 +66,7 @@ public class EditItemActivity extends Activity {
 		
 	}
 	
+	// Function is called when the save button is clicked
 	public void saveChanges(View v) {
 		String updatedItemText = editItem.getText().toString();
 		if(updatedItemText.equalsIgnoreCase("")) {

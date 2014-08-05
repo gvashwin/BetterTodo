@@ -29,3 +29,39 @@ Completed User Stories :
 **Launching the app**
 
 ![Video Walkthrough](AppLaunch.gif)
+
+**Adding tasks to the todo list**
+
+![Video Walkthrough](AddingTasks.gif)
+
+**Adding same task**
+
+![Video Walkthrough](SameTask.gif)
+
+**Item remove**
+
+![Video Walkthrough](ItemRemove.gif)
+
+**Removing all items**
+
+![Video Walkthrough](RemovingAllItems.gif)
+
+**Adding empty task**
+
+![Video Walkthrough](AddingEmptyTask.gif)
+
+**Changing task item name**
+
+![Video Walkthrough](EdittingItemTextAlone.gif)
+
+**Changing task item priority**
+
+![Video Walkthrough](ChangingItemPriority.gif)
+
+**Changing task item priority and text**
+
+![Video Walkthrough](TextAndPriorityChange.gif)
+
+**Changing task item priority and text**
+
+![Video Walkthrough](TextAndPriorityChange.gif)

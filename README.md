@@ -23,8 +23,7 @@ Completed User Stories :
  * [x] Optional : **Feature :** User can edit or change the todo item's name (task name) and also its priority in the edit activity screen.
  * [x] Optional : **Feature :** User cannot edit the name of a task to empty string.
  * [x] Optional : **SQLite :** Storing all the tasks or todo items in sqlite database.
- * [x] Optional : **SQLite :** The table to store the todo items has 2 columns |{taskName, String}|{taskPriority, String}|.
- * 
+ * [x] Optional : **SQLite :** The table to store the todo items has 2 columns |{taskName, String}|{taskPriority, String}|
  
 Complete dif demo of the app,
 

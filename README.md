@@ -26,39 +26,41 @@ Completed User Stories :
  * [x] Optional : **SQLite :** The table to store the todo items has 2 columns |{taskName, String}|{taskPriority, String}|.
 
 
-**Launching the app**
+Below are the gif images of the spefic user stories of the app,
+
+**Launching the app :**
 
 ![Video Walkthrough](AppLaunch.gif)
 
-**Adding tasks to the todo list**
+**Adding tasks to the todo list :**
 
 ![Video Walkthrough](AddingTasks.gif)
 
-**Adding same task**
+**Adding same task :**
 
 ![Video Walkthrough](SameTask.gif)
 
-**Item remove**
+**Item remove :**
 
 ![Video Walkthrough](ItemRemove.gif)
 
-**Removing all items**
+**Removing all items :**
 
 ![Video Walkthrough](RemovingAllItems.gif)
 
-**Adding empty task**
+**Adding empty task :**
 
 ![Video Walkthrough](AddingEmptyTask.gif)
 
-**Changing task item name**
+**Changing task item name :**
 
 ![Video Walkthrough](EditingItemTextAlone.gif)
 
-**Changing task item priority**
+**Changing task item priority :**
 
 ![Video Walkthrough](ChangingItemPriorityAlone.gif)
 
-**Changing task item priority and text**
+**Changing task item priority and text :**
 
 ![Video Walkthrough](TextAndPriorityChange.gif)
 

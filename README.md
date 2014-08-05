@@ -27,4 +27,5 @@ Completed User Stories :
 
 
 **Launching the app**
+
 ![Video Walkthrough](AppLaunch.gif)

@@ -25,7 +25,7 @@ Completed User Stories :
  * [x] Optional : **SQLite :** Storing all the tasks or todo items in sqlite database.
  * [x] Optional : **SQLite :** The table to store the todo items has 2 columns |{taskName, String}|{taskPriority, String}|
  
-Complete dif demo of the app,
+**Complete gif demo of the app,**
 
 ![Video Walkthrough](CompleteAppDemo.gif)
 
